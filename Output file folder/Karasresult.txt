@@ -1,0 +1,4 @@
+Karastuba's algorithm for faster multiplication:Welcome
+First Number is:1000000
+Second Number is:200000
+Result is:200000000000

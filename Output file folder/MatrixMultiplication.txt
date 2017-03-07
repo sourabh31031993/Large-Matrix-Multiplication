@@ -1,0 +1,6 @@
+
+Matrix 1 is the 1x1 matrix19 
+
+Matrix 2 is the 1x1 matrix12 
+
+Their product is the 1x1 matrix228 

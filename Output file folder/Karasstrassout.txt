@@ -1,0 +1,4 @@
+
+Product of matrices A and  B :              
+
+690 

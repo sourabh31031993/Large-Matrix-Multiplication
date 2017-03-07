@@ -1,0 +1,7 @@
+
+Product of matrices A and  B :              
+
+39 15 27 28 
+22 2 22 16 
+19 5 19 18 
+13 23 11 30 
